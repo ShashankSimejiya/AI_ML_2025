@@ -1,0 +1,15 @@
+AI/ML Program Command
+ 
+=> pip install jupyter notebook
+=> pip install opencv-python
+=> pip install matplotlib
+=> jupyter notebook 
+
+Download the Library
+
+haarcascade_frontalface_default.xml 
+pip install nltk
+pip install stanza
+pip install librosa
+pip install sounddevice
+pip install speechRecognition
